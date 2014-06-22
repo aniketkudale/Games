@@ -30,7 +30,7 @@ $(document).ready(function(){
 	function run()
 	{
 		
-		d = "right"; //default direction of saap
+	  d = "right"; //default direction of saap
 	  create_snake();
 	  create_food();
 	  
